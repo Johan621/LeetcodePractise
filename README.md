@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Johan621/LeetcodePractise/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
 | [1720-decode-xored-array](https://github.com/Johan621/LeetcodePractise/tree/master/1720-decode-xored-array) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
