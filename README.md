@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -39,4 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Johan621/LeetcodePractise/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
