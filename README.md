@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1720-decode-xored-array](https://github.com/Johan621/LeetcodePractise/tree/master/1720-decode-xored-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Johan621/LeetcodePractise/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Johan621/LeetcodePractise/tree/master/2270-number-of-ways-to-split-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Johan621/LeetcodePractise/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+| [1720-decode-xored-array](https://github.com/Johan621/LeetcodePractise/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Johan621/LeetcodePractise/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Sorting
 |  |
