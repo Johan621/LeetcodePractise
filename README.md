@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Johan621/LeetcodePractise/tree/master/3146-permutation-difference-between-two-strings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
@@ -33,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Johan621/LeetcodePractise/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Johan621/LeetcodePractise/tree/master/2270-number-of-ways-to-split-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Johan621/LeetcodePractise/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Johan621/LeetcodePractise/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Johan621/LeetcodePractise/tree/master/2270-number-of-ways-to-split-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
