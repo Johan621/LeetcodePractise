@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/1331-rank-transform-of-an-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Johan621/LeetcodePractise/tree/master/3146-permutation-difference-between-two-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1720-decode-xored-array](https://github.com/Johan621/LeetcodePractise/tree/master/1720-decode-xored-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Johan621/LeetcodePractise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Johan621/LeetcodePractise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Johan621/LeetcodePractise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
