@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Johan621/LeetcodePractise/tree/master/0035-search-insert-position) |
+| [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
@@ -142,13 +144,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
