@@ -1,4 +1,15 @@
 class Solution {
+private:
+    bool dfs(vector<vector<int>>& adj,int node,int des,vector<int>& visited){
+        if(node == des) return true;
+        visited[node] = 1;
+        for(int neigh: adj[node]){
+            if(!visited[neigh]){
+                if(dfs(adj,neigh,des,visited)) return true;
+            }
+        }
+        return false;
+    }
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
         vector<vector<int>> adj(n);
@@ -9,23 +20,6 @@ public:
             adj[v].push_back(u);
         }
         vector<int> visited(n,0);
-
-        queue<int> q;
-        q.push(source);
-        visited[source] = 1;
-
-        while(!q.empty()){
-            int x = q.front();
-            q.pop();
-
-            if(x == destination) return true;
-            for(int neighbor: adj[x]){
-                if(!visited[neighbor]){
-                    visited[neighbor] = 1;
-                    q.push(neighbor);
-                }
-            }
-        }
-        return false;
+        return dfs(adj,source,destination,visited);
     }
 };
