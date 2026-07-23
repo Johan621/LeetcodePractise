@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
