@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
