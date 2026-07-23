@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Johan621/LeetcodePractise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Johan621/LeetcodePractise/tree/master/2270-number-of-ways-to-split-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Johan621/LeetcodePractise/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Interactive
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
 |  |
 | ------- |
