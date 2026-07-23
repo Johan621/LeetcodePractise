@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Johan621/LeetcodePractise/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
