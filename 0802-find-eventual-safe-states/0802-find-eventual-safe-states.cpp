@@ -1,36 +1,36 @@
 class Solution {
-private:
-    bool dfs(int node,vector<vector<int>>& adj,vector<int>& visited,vector<int>& pathvis,vector<int>& check){
-        visited[node] = 1;
-        pathvis[node] = 1;
-        check[node] = 0;
-        for(auto neigh:adj[node]){
-            if(!visited[neigh]){
-                if(dfs(neigh,adj,visited,pathvis,check)) return true;
-            }
-            else if(pathvis[neigh] == 1){
-                return true;
-            }
-        }
-        check[node] = 1;
-        pathvis[node] = 0;
-        return false;
-    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int V = graph.size();
-        vector<int> visited(V,0);
-        vector<int> pathvis(V,0);
-        vector<int> check(V,0);
+
+        // kahn's Topo-sort algorithm
+        vector<vector<int>> adjrev(V);
+        vector<int> indegree(V,0);
         for(int i=0;i<V;i++){
-            if(!visited[i]){
-                dfs(i,graph,visited,pathvis,check);
+            for(auto neigh: graph[i]){
+                adjrev[neigh].push_back(i);
+                indegree[i]++;
+            }
+        }
+
+        queue<int> q;
+        for(int i=0;i<V;i++){
+            if(indegree[i] == 0){
+                q.push(i);
             }
         }
         vector<int> safenodes;
-        for(int i=0;i<V;i++){
-            if(check[i]) safenodes.push_back(i);
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            safenodes.push_back(node);
+            for(auto neigh:adjrev[node]){
+                indegree[neigh]--;
+                if(indegree[neigh] == 0) q.push(neigh);
+            }
         }
+
+        sort(safenodes.begin(),safenodes.end());
         return safenodes;
     }
 };
