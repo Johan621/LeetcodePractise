@@ -1,34 +1,37 @@
 class Solution {
-    private:
-        bool dfs(int node,vector<vector<int>>& adj,vector<int>& visited,vector<int>& pathvis){
-            visited[node] = 1;
-            pathvis[node] = 1;
-            for(auto neigh:adj[node]){
-                if(!visited[neigh]){
-                    if(dfs(neigh,adj,visited,pathvis)) return true;
-                }else if(pathvis[neigh] == 1){
-                    return true;
-                }
-            }
-            pathvis[node] = 0;
-            return false;
-        }
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> visited(numCourses,0);
-        vector<int> pathvis(numCourses,0);
+        int V = numCourses;
 
-        vector<vector<int>> adj(numCourses);
+        vector<vector<int>> adj(V);
         for(auto& edge:prerequisites){
             int u = edge[0];
             int v = edge[1];
             adj[u].push_back(v);
         }
-        for(int i=0;i<numCourses;i++){
-            if(!visited[i]){
-                if(dfs(i,adj,visited,pathvis) == true) return false;
+        vector<int> indegree(V,0);
+        for(int i=0;i<V;i++){
+            for(auto neigh:adj[i]){
+                indegree[neigh]++;
             }
         }
-        return true;
+        queue<int> q;
+        for(int i=0;i<V;i++){
+            if(indegree[i] == 0){
+                q.push(i);
+            }
+        }
+        vector<int> topo;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topo.push_back(node);
+            for(auto neigh:adj[node]){
+                indegree[neigh]--;
+                if(indegree[neigh] == 0) q.push(neigh);
+            }
+        }
+        if(topo.size() == V) return true;
+        return false;
     }
 };
