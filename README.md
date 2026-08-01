@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Johan621/LeetcodePractise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Johan621/LeetcodePractise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1720-decode-xored-array](https://github.com/Johan621/LeetcodePractise/tree/master/1720-decode-xored-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Johan621/LeetcodePractise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Johan621/LeetcodePractise/tree/master/0278-first-bad-version) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Johan621/LeetcodePractise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Johan621/LeetcodePractise/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Johan621/LeetcodePractise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
