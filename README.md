@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Johan621/LeetcodePractise/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Johan621/LeetcodePractise/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Johan621/LeetcodePractise/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Johan621/LeetcodePractise/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Johan621/LeetcodePractise/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Johan621/LeetcodePractise/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Johan621/LeetcodePractise/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
