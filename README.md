@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Johan621/LeetcodePractise/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Johan621/LeetcodePractise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Johan621/LeetcodePractise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Johan621/LeetcodePractise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Johan621/LeetcodePractise/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -258,8 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Johan621/LeetcodePractise/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
