@@ -9,14 +9,17 @@ public:
         for(int num:nums){
             mp[num]++;
         }
-        vector<pair<int,int>> freq;
-        for(auto it:mp){
-            freq.push_back({it.first,it.second});
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        for(auto& it:mp){
+            pq.push({it.second,it.first});
+            if(pq.size()>k){
+                pq.pop();
+            }
         }
-        sort(freq.begin(),freq.end(),comp);
         vector<int> ans;
-        for(int i=0;i<k;i++){
-            ans.push_back(freq[i].first);
+        while(!pq.empty()){
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
         return ans;
     }
