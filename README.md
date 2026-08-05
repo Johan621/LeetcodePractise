@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Johan621/LeetcodePractise/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Johan621/LeetcodePractise/tree/master/0739-daily-temperatures) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Johan621/LeetcodePractise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Johan621/LeetcodePractise/tree/master/0901-online-stock-span) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Johan621/LeetcodePractise/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
