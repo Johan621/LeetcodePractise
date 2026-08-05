@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Johan621/LeetcodePractise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Johan621/LeetcodePractise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Johan621/LeetcodePractise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Johan621/LeetcodePractise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
