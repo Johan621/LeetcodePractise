@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Johan621/LeetcodePractise/tree/master/3146-permutation-difference-between-two-strings) |
+| [3838-weighted-word-mapping](https://github.com/Johan621/LeetcodePractise/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Johan621/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/Johan621/LeetcodePractise/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Johan621/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/Johan621/LeetcodePractise/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
 |  |
 | ------- |
