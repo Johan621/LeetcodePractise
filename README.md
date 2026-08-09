@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Johan621/LeetcodePractise/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Johan621/LeetcodePractise/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Johan621/LeetcodePractise/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0056-merge-intervals) |
@@ -391,5 +392,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Johan621/LeetcodePractise/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Johan621/LeetcodePractise/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
