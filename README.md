@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Johan621/LeetcodePractise/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Johan621/LeetcodePractise/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Johan621/LeetcodePractise/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Johan621/LeetcodePractise/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
