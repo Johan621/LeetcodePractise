@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Johan621/LeetcodePractise/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Johan621/LeetcodePractise/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Johan621/LeetcodePractise/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Johan621/LeetcodePractise/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Johan621/LeetcodePractise/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Johan621/LeetcodePractise/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Johan621/LeetcodePractise/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
