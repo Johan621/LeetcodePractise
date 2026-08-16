@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Johan621/LeetcodePractise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Johan621/LeetcodePractise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
 | [2325-decode-the-message](https://github.com/Johan621/LeetcodePractise/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/Johan621/LeetcodePractise/tree/master/2390-removing-stars-from-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Johan621/LeetcodePractise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Johan621/LeetcodePractise/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Johan621/LeetcodePractise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Johan621/LeetcodePractise/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
