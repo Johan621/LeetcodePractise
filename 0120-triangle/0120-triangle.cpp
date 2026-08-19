@@ -5,7 +5,7 @@ private:
         if(dp[i][j] != INT_MAX) return dp[i][j];
         int left = f(i+1,j,n,triangle,dp);
         int right = f(i+1,j+1,n,triangle,dp);
-        return dp[i][j] = min(left,right) + triangle[i][j];
+        return dp[i][j] = triangle[i][j] + min(left,right);
     }
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
