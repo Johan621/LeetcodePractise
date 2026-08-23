@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Johan621/LeetcodePractise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Johan621/LeetcodePractise/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [2325-decode-the-message](https://github.com/Johan621/LeetcodePractise/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/Johan621/LeetcodePractise/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Johan621/LeetcodePractise/tree/master/2716-minimize-string-length) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Johan621/LeetcodePractise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Johan621/LeetcodePractise/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Johan621/LeetcodePractise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Johan621/LeetcodePractise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -464,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Johan621/LeetcodePractise/tree/master/0455-assign-cookies) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
