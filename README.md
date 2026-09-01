@@ -484,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Johan621/LeetcodePractise/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Johan621/LeetcodePractise/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
