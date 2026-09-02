@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Johan621/LeetcodePractise/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Johan621/LeetcodePractise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Johan621/LeetcodePractise/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Johan621/LeetcodePractise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Johan621/LeetcodePractise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Johan621/LeetcodePractise/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Johan621/LeetcodePractise/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Johan621/LeetcodePractise/tree/master/0844-backspace-string-compare) |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Johan621/LeetcodePractise/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Johan621/LeetcodePractise/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Johan621/LeetcodePractise/tree/master/0183-customers-who-never-order) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Johan621/LeetcodePractise/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
