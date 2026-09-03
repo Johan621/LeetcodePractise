@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Johan621/LeetcodePractise/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Johan621/LeetcodePractise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 ## DP on Trees
 |  |
@@ -502,4 +504,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Johan621/LeetcodePractise/tree/master/0160-intersection-of-two-linked-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
