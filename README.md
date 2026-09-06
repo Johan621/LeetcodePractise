@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Johan621/LeetcodePractise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Johan621/LeetcodePractise/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Johan621/LeetcodePractise/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Johan621/LeetcodePractise/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Johan621/LeetcodePractise/tree/master/0205-isomorphic-strings) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Johan621/LeetcodePractise/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Johan621/LeetcodePractise/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Johan621/LeetcodePractise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0213-house-robber-ii) |
