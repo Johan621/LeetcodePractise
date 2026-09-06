@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Johan621/LeetcodePractise/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Johan621/LeetcodePractise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Johan621/LeetcodePractise/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Johan621/LeetcodePractise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/Johan621/LeetcodePractise/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Johan621/LeetcodePractise/tree/master/2390-removing-stars-from-a-string) |
