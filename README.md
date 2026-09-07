@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Johan621/LeetcodePractise/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Johan621/LeetcodePractise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Johan621/LeetcodePractise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Johan621/LeetcodePractise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Johan621/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Johan621/LeetcodePractise/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Johan621/LeetcodePractise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Johan621/LeetcodePractise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Johan621/LeetcodePractise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Johan621/LeetcodePractise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Johan621/LeetcodePractise/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Johan621/LeetcodePractise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Johan621/LeetcodePractise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Johan621/LeetcodePractise/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Johan621/LeetcodePractise/tree/master/0844-backspace-string-compare) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Johan621/LeetcodePractise/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Johan621/LeetcodePractise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
 | ------- |
