@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Johan621/LeetcodePractise/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0766-toeplitz-matrix) |
 | [0929-unique-email-addresses](https://github.com/Johan621/LeetcodePractise/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/Johan621/LeetcodePractise/tree/master/0994-rotting-oranges) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Johan621/LeetcodePractise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Johan621/LeetcodePractise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Johan621/LeetcodePractise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Johan621/LeetcodePractise/tree/master/1260-shift-2d-grid) |
