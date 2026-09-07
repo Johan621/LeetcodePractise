@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Johan621/LeetcodePractise/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Johan621/LeetcodePractise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/Johan621/LeetcodePractise/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Johan621/LeetcodePractise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Johan621/LeetcodePractise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
