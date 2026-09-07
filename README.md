@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Johan621/LeetcodePractise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Johan621/LeetcodePractise/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Johan621/LeetcodePractise/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Johan621/LeetcodePractise/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Johan621/LeetcodePractise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Johan621/LeetcodePractise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -561,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Johan621/LeetcodePractise/tree/master/2778-sum-of-squares-of-special-elements) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Johan621/LeetcodePractise/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
