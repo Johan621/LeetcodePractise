@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Johan621/LeetcodePractise/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Johan621/LeetcodePractise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1323-maximum-69-number](https://github.com/Johan621/LeetcodePractise/tree/master/1323-maximum-69-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Johan621/LeetcodePractise/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Johan621/LeetcodePractise/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Johan621/LeetcodePractise/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0728-self-dividing-numbers) |
+| [1323-maximum-69-number](https://github.com/Johan621/LeetcodePractise/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Johan621/LeetcodePractise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
