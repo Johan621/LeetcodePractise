@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Johan621/LeetcodePractise/tree/master/0319-bulb-switcher) |
 | [0504-base-7](https://github.com/Johan621/LeetcodePractise/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Johan621/LeetcodePractise/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Johan621/LeetcodePractise/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Johan621/LeetcodePractise/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
