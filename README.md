@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Johan621/LeetcodePractise/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Johan621/LeetcodePractise/tree/master/2270-number-of-ways-to-split-array) |
+| [2485-find-the-pivot-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2485-find-the-pivot-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Johan621/LeetcodePractise/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3904-smallest-stable-index-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Johan621/LeetcodePractise/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Johan621/LeetcodePractise/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Johan621/LeetcodePractise/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Johan621/LeetcodePractise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Johan621/LeetcodePractise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
