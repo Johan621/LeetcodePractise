@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Johan621/LeetcodePractise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Johan621/LeetcodePractise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Johan621/LeetcodePractise/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-weighted-word-mapping](https://github.com/Johan621/LeetcodePractise/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Johan621/LeetcodePractise/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Johan621/LeetcodePractise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Johan621/LeetcodePractise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Johan621/LeetcodePractise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Johan621/LeetcodePractise/tree/master/3828-final-element-after-subarray-deletions) |
 | [3870-count-commas-in-range](https://github.com/Johan621/LeetcodePractise/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Johan621/LeetcodePractise/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Johan621/LeetcodePractise/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Johan621/LeetcodePractise/tree/master/3828-final-element-after-subarray-deletions) |
 ## DP on Trees
 |  |
 | ------- |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Johan621/LeetcodePractise/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Johan621/LeetcodePractise/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Johan621/LeetcodePractise/tree/master/3828-final-element-after-subarray-deletions) |
 ## Minimax
 |  |
 | ------- |
