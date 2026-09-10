@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Johan621/LeetcodePractise/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Johan621/LeetcodePractise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Johan621/LeetcodePractise/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Johan621/LeetcodePractise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Johan621/LeetcodePractise/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Johan621/LeetcodePractise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
