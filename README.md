@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Johan621/LeetcodePractise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Johan621/LeetcodePractise/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Johan621/LeetcodePractise/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Johan621/LeetcodePractise/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Johan621/LeetcodePractise/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Johan621/LeetcodePractise/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Johan621/LeetcodePractise/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Johan621/LeetcodePractise/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Johan621/LeetcodePractise/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Johan621/LeetcodePractise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Johan621/LeetcodePractise/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -606,4 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Johan621/LeetcodePractise/tree/master/1227-airplane-seat-assignment-probability) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
