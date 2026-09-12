@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Johan621/LeetcodePractise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Johan621/LeetcodePractise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Johan621/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Johan621/LeetcodePractise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Johan621/LeetcodePractise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Johan621/LeetcodePractise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Johan621/LeetcodePractise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Johan621/LeetcodePractise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Johan621/LeetcodePractise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Johan621/LeetcodePractise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Johan621/LeetcodePractise/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Johan621/LeetcodePractise/tree/master/1227-airplane-seat-assignment-probability) |
 | [2054-two-best-non-overlapping-events](https://github.com/Johan621/LeetcodePractise/tree/master/2054-two-best-non-overlapping-events) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Topological Sort
 |  |
 | ------- |
