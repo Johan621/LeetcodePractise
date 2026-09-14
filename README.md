@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Johan621/LeetcodePractise/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Johan621/LeetcodePractise/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Johan621/LeetcodePractise/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Johan621/LeetcodePractise/tree/master/1227-airplane-seat-assignment-probability) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Johan621/LeetcodePractise/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Johan621/LeetcodePractise/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Johan621/LeetcodePractise/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Probability and Statistics
 |  |
