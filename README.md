@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Johan621/LeetcodePractise/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Johan621/LeetcodePractise/tree/master/0171-excel-sheet-column-number) |
+| [0223-rectangle-area](https://github.com/Johan621/LeetcodePractise/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Johan621/LeetcodePractise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Johan621/LeetcodePractise/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Johan621/LeetcodePractise/tree/master/0292-nim-game) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Johan621/LeetcodePractise/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Johan621/LeetcodePractise/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Johan621/LeetcodePractise/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Probability and Statistics
