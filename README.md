@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Johan621/LeetcodePractise/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Johan621/LeetcodePractise/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Johan621/LeetcodePractise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1991-find-the-middle-index-in-array](https://github.com/Johan621/LeetcodePractise/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Johan621/LeetcodePractise/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Johan621/LeetcodePractise/tree/master/2485-find-the-pivot-integer) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Johan621/LeetcodePractise/tree/master/1227-airplane-seat-assignment-probability) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Johan621/LeetcodePractise/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/Johan621/LeetcodePractise/tree/master/1323-maximum-69-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Johan621/LeetcodePractise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Johan621/LeetcodePractise/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Johan621/LeetcodePractise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Johan621/LeetcodePractise/tree/master/2413-smallest-even-multiple) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Johan621/LeetcodePractise/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Johan621/LeetcodePractise/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Johan621/LeetcodePractise/tree/master/1227-airplane-seat-assignment-probability) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Johan621/LeetcodePractise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2054-two-best-non-overlapping-events](https://github.com/Johan621/LeetcodePractise/tree/master/2054-two-best-non-overlapping-events) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Johan621/LeetcodePractise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -641,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Johan621/LeetcodePractise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
