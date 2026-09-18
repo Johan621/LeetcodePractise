@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Johan621/LeetcodePractise/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Johan621/LeetcodePractise/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Johan621/LeetcodePractise/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Johan621/LeetcodePractise/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Johan621/LeetcodePractise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0504-base-7](https://github.com/Johan621/LeetcodePractise/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Johan621/LeetcodePractise/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Johan621/LeetcodePractise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Johan621/LeetcodePractise/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Johan621/LeetcodePractise/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Johan621/LeetcodePractise/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Johan621/LeetcodePractise/tree/master/0844-backspace-string-compare) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Johan621/LeetcodePractise/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Johan621/LeetcodePractise/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Johan621/LeetcodePractise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Johan621/LeetcodePractise/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Johan621/LeetcodePractise/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Johan621/LeetcodePractise/tree/master/0678-valid-parenthesis-string) |
