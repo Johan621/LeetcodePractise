@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Johan621/LeetcodePractise/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Johan621/LeetcodePractise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Johan621/LeetcodePractise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Johan621/LeetcodePractise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Johan621/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Johan621/LeetcodePractise/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Johan621/LeetcodePractise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Johan621/LeetcodePractise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Johan621/LeetcodePractise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Johan621/LeetcodePractise/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Johan621/LeetcodePractise/tree/master/0461-hamming-distance) |
 | [1720-decode-xored-array](https://github.com/Johan621/LeetcodePractise/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Johan621/LeetcodePractise/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Johan621/LeetcodePractise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Johan621/LeetcodePractise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Johan621/LeetcodePractise/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Johan621/LeetcodePractise/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Johan621/LeetcodePractise/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Johan621/LeetcodePractise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Interactive
 |  |
 | ------- |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Johan621/LeetcodePractise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Johan621/LeetcodePractise/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Johan621/LeetcodePractise/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Johan621/LeetcodePractise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
